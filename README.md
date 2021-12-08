@@ -20,3 +20,4 @@ progress so far:
   transformed data as transformed_data.csv .
 - in the exploratory data analysis notebook there are some plots to visualize distributions and dependencies of the
   outcome on features.
+- added preliminary logistic regression model - but still needs improvement/more predictors
