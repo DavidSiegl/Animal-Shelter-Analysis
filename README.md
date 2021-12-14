@@ -1,5 +1,8 @@
 # Animal-Shelter-Analysis
 
+## Presentation
+[Slides for Presentation]https://docs.google.com/presentation/d/1RR-3j82ueooVfFO8pG-bWZK_UYI26awCJaG-S5mADWM/edit#slide=id.g70ff5ca009_7_153
+
 ## Google Doc
 
 For tasks which are left to do check
