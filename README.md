@@ -15,3 +15,7 @@ The data for the project was taken from an animal shelter in Austin. The main go
 For tasks which are left to do check
 the [Google Doc](https://docs.google.com/document/d/1xrYd8vYmTS6Bz_-bO-T2mmCtsSS9NV-IqMi_H7edA2g/edit
 ).
+
+## Miro Board
+[Miro Board](https://miro.com/welcomeonboard/bmk4SG8zd2xiZHpVZEt5enBaY2Z3WXU1cFlDakpwRkJ3ZWxxRHg0eEtsRUxQUkh2R3JjMlZoVGM2ZDg2R3VDbnwzMDc0NDU3MzUyOTI1ODMzMDky?invite_link_id=758649519106
+).
