@@ -11,7 +11,7 @@ The data for the project was taken from an animal shelter in Austin. The main go
 ## Presentation
 [Slides for Presentation](https://docs.google.com/presentation/d/1RR-3j82ueooVfFO8pG-bWZK_UYI26awCJaG-S5mADWM/edit#slide=id.g70ff5ca009_7_153)
 
-[Slides for Final Presentation](https://docs.google.com/presentation/d/12DlfA2UZSO3qEv2KWUlYGqHC_5AJ60q_/edit#slide=id.p1)
+[Slides for Final Presentation](https://docs.google.com/presentation/d/12DlfA2UZSO3qEv2KWUlYGqHC_5AJ60q_/edit?usp=sharing&ouid=118235154038162837819&rtpof=true&sd=true)
 
 ## Google Doc
 For tasks which are left to do check
