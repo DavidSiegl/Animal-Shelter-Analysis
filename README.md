@@ -15,3 +15,7 @@ The data for the project was taken from an animal shelter in Austin. The main go
 
 ## Workflow
 [Miro Board](https://miro.com/app/board/uXjVOYN9CKE=/?invite_link_id=112371430562)
+
+## Poster
+
+![poster](https://github.com/DavidSiegl/Animal-Shelter-Analysis/blob/main/Poster.png)
