@@ -21,3 +21,7 @@ the [Google Doc](https://docs.google.com/document/d/1xrYd8vYmTS6Bz_-bO-T2mmCtsSS
 ## Miro Board
 [Miro Board](https://miro.com/welcomeonboard/bmk4SG8zd2xiZHpVZEt5enBaY2Z3WXU1cFlDakpwRkJ3ZWxxRHg0eEtsRUxQUkh2R3JjMlZoVGM2ZDg2R3VDbnwzMDc0NDU3MzUyOTI1ODMzMDky?invite_link_id=758649519106
 ).
+
+## Script for the Video
+[Script] (https://docs.google.com/document/d/1lAVwHHjgax1V8s-Yf8Sin1C3AOtIJNIAw5z3-HmOyQo/edit?usp=sharing
+).
