@@ -23,5 +23,5 @@ the [Google Doc](https://docs.google.com/document/d/1xrYd8vYmTS6Bz_-bO-T2mmCtsSS
 ).
 
 ## Script for the Video
-[Script] (https://docs.google.com/document/d/1lAVwHHjgax1V8s-Yf8Sin1C3AOtIJNIAw5z3-HmOyQo/edit?usp=sharing
+[Script](https://docs.google.com/document/d/1lAVwHHjgax1V8s-Yf8Sin1C3AOtIJNIAw5z3-HmOyQo/edit?usp=sharing
 ).
