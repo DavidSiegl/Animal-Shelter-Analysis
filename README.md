@@ -14,5 +14,4 @@ The data for the project was taken from an animal shelter in Austin. The main go
 [Slides for Final Presentation](https://docs.google.com/presentation/d/12DlfA2UZSO3qEv2KWUlYGqHC_5AJ60q_/edit?usp=sharing&ouid=118235154038162837819&rtpof=true&sd=true)
 
 ## Workflow
-[Miro Board](https://miro.com/welcomeonboard/bmk4SG8zd2xiZHpVZEt5enBaY2Z3WXU1cFlDakpwRkJ3ZWxxRHg0eEtsRUxQUkh2R3JjMlZoVGM2ZDg2R3VDbnwzMDc0NDU3MzUyOTI1ODMzMDky?invite_link_id=758649519106
-)
+[Miro Board](https://miro.com/app/board/uXjVOYN9CKE=/?invite_link_id=112371430562)
